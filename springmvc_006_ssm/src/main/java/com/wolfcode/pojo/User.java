@@ -12,6 +12,7 @@ public class User {
     private String userSex;
     private String userAge;
     private String userRole;
+    private String address;
 
     @Override
     public String toString() {
