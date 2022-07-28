@@ -13,6 +13,7 @@ public class User {
     private String userAge;
     private String userRole;
     private String address;
+    private String weight;
 
     @Override
     public String toString() {
